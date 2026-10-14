@@ -22,22 +22,16 @@ The project is deployed using Streamlit, providing a simple web interface where 
 - Streamlit
 
 ## Model
-The project uses a trained Machine Learning model saved as `model.joblib`. The application loads this model to generate predictions from user-provided reviews.
+The project uses a trained Machine Learning model saved as model.joblib. The application loads this model to generate predictions from user-provided reviews.
 
 ## Deployment
-The application can be deployed using Streamlit Community Cloud by connecting this GitHub repository and selecting `app.py` as the main application file.
+The application can be deployed using Streamlit Community Cloud by connecting this GitHub repository and selecting app.py as the main application file.
 
 ## Applications
 - Customer feedback analysis
 - Product review analysis
 - Understanding customer opinions
 - Supporting ecommerce businesses in analyzing customer sentiment
-
-## Future Improvements
-- Improve model performance through hyperparameter tuning.
-- Evaluate the model using precision, recall, F1-score, and accuracy.
-- Add visualizations of customer sentiment.
-- Extend the application to analyze multiple reviews.
 
 ## Author
 Manoj
